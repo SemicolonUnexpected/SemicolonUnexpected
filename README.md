@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently studying Further Maths, Maths, Chemistry and Software Systems Development<br>🎲 Fun fact: I enjoy solving Project Euler problems</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently studying further maths, maths, chemistry and software systems development<br>🎲 Fun fact: I enjoy solving Project Euler problems</p>
 
 ###
 
