@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently studying further maths, maths, chemistry and software systems development<br>🎲 Fun fact: I enjoy solving Project Euler problems</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently studying Computer Science at the University of St Andrews<br>🎲 Fun fact: I enjoy solving Project Euler problems</p>
 
 ###
 
