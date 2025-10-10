@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matthew, aka. SemicolonUnexpected. I'm aspiring to be a CS student.</p>
+<p align="left">My name is Matthew, aka. SemicolonUnexpected.</p>
 
 ###
 
